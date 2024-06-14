@@ -1,8 +1,13 @@
 # EID---SPECIAL
-✨ EID MUBARAK DEAR MUSLIM BROTHERS 🌺 Codded By - DARK LMNx9 🇧🇩
-# INSTALLATION :
+✨ EID MUBARAK DEAR MUSLIM BROTHERS 🌺 Codded By - DARK LMNx9
 
-    git clone https://github.com/LMNx9-JOHNY/EID---SPECIAL
+
+# Installation :
+    dpkg --configure -a
+    git clone --depth=1 https://github.com/LMNx9-JOHNY/EID---SPECIAL
     cd EID---SPECIAL
     chmod +x *
-    python EID_v1.0.py
+    python EID_v2.0.py
+
+
+#  [JOIN TELEGRAM](https://t.me/DARK_TEAM_LMNx9)
